@@ -1,0 +1,216 @@
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADORecordSet_mysqli::$adodbFetchMode is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1272</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$orgname is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$table is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$orgtable is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$def is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$db is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$catalog is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$length is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$charsetnr is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$flags is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$decimals is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$primary_key is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$not_null is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$auto_increment is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$binary is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$unsigned is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$orgname is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$table is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$orgtable is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$def is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$db is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$catalog is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$length is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$charsetnr is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$flags is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$decimals is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$primary_key is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$not_null is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$auto_increment is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$binary is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$unsigned is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$orgname is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$table is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$orgtable is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$def is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$db is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$catalog is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$length is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$charsetnr is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$flags is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$decimals is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$primary_key is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$not_null is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$auto_increment is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$binary is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$unsigned is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$orgname is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$table is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$orgtable is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$def is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$db is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$catalog is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$length is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$charsetnr is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$flags is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$decimals is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$primary_key is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$not_null is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$auto_increment is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$binary is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$unsigned is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$orgname is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$table is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$orgtable is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$def is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$db is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$catalog is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$length is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$charsetnr is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$flags is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$decimals is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$primary_key is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$not_null is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$auto_increment is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$binary is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$unsigned is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$orgname is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$table is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$orgtable is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$def is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$db is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$catalog is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$length is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$charsetnr is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$flags is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$decimals is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$primary_key is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$not_null is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$auto_increment is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$binary is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$unsigned is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$orgname is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$table is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$orgtable is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$def is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$db is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$catalog is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$length is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$charsetnr is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$flags is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$decimals is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$primary_key is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$not_null is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$auto_increment is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$binary is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Deprecated</b>:  Creation of dynamic property ADOFieldObject::$unsigned is deprecated in <b>/var/www/html/vtigercrm-1/libraries/adodb_vtigerfix/drivers/adodb-mysqli.inc.php</b> on line <b>1339</b><br />
+<br />
+<b>Warning</b>:  filesize(): stat failed for storage/2024/January/week3/42_1b6421be4cad33a970f63fdd0454aa4a.png in <b>/var/www/html/vtigercrm-1/modules/Emails/actions/DownloadFile.php</b> on line <b>46</b><br />
+boooo<br />
+<b>Warning</b>:  Undefined variable $fileContent in <b>/var/www/html/vtigercrm-1/modules/Emails/actions/DownloadFile.php</b> on line <b>59</b><br />

@@ -1,0 +1,18 @@
+<div class="">
+    <nav class="navbar navbar-expand-lg navbar-light bg-white">
+        <div class="container-fluid">
+            <div class="d-flex justify-content-center w-100">
+                <a class="navbar-brand" href="index.php"><img src="templates/images/kaushik-logo.png" alt="kaushik-logo" width="200" /></a>
+            </div>
+        </div>
+    </nav>
+    <div class="container-fluid">
+        <div class="text-center">
+            {% if session.username %}
+                <h3>Latest Images</h3>
+                <p>Every child is an artist. The problem is how to remain an artist once we grow up.</p>
+                <span class="text-muted mx-2">{{session.username}}</span><a href="index.php?action=logout">Logout</a>
+            {% endif %}
+        </div>
+    </div>
+</div>
